@@ -106,21 +106,21 @@ Las transformaciones principales fueron:
 - Papaya tainung
 - Merkuza filetiada
 - Zanahoria
-- Yuca
+- Yuca Chirosa
   
 2. ¿Cuáles son los más volátiles?
-- Arracacha amarilla
-- Cilantro
-- Menudencias de Pollo
-- Mango Tommy
+- Mango Yulima
+- Vinagre
+- Habichuela
+- Tilapia Roja Entera Fresca
   
 3. ¿Qué ciudades muestran los mayores incrementos de precios?
 - Ibague
 - Manizales
   
-4. ¿Qué categorías son menos volatiles?
+4. ¿Qué categorías son mas volatiles?
 - Carnes
-- Granos y Cereales
+- Pescados
   
 5. ¿Qué categorías son más Economicas?
 -  Verdururas y Hortalizas
