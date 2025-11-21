@@ -106,21 +106,21 @@ Las transformaciones principales fueron:
 - Papaya tainung
 - Merkuza filetiada
 - Zanahoria
-- Yuca
+- Yuca Chirosa
   
 2. ¿Cuáles son los más volátiles?
-- Arracacha amarilla
-- Cilantro
-- Menudencias de Pollo
-- Mango Tommy
+- Mango Yulima
+- Vinagre
+- Habichuela
+- Tilapia Roja Entera Fresca
   
 3. ¿Qué ciudades muestran los mayores incrementos de precios?
 - Ibague
 - Manizales
   
-4. ¿Qué categorías son menos volatiles?
+4. ¿Qué categorías son mas volatiles?
 - Carnes
-- Granos y Cereales
+- Pescados
   
 5. ¿Qué categorías son más Economicas?
 -  Verdururas y Hortalizas
@@ -139,9 +139,9 @@ Las transformaciones principales fueron:
 ## 📎 Archivos incluidos
 [Dataset Link] (https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Historico-de-Precios-Productos-de-la-Canasta-Famil/gdqq-rry2/about_data)
 
-[Descargar dataset](./data/Historico_Precios_Canasta.csv)
+[Descargar dataset](DATA)
 
-[Dashboard Power BI (.pbix)](./powerbi/canasta_familiar_eje.pbix)
+[Dashboard Power BI (.pbix)](PowerBi)
 
 
 ## 👤 Autor
