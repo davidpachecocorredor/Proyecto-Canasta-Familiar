@@ -22,7 +22,7 @@ El análisis permite entender la evolución de precios, inflación mensual, vola
 
 Conjunto de datos utilizado
 
-Archivo: Historico_de_Precios_Productos_Canasta_Familiar.csv
+[Archivo]: Historico_de_Precios_Productos_Canasta_Familiar.csv
 
 Columnas principales:
 
