@@ -1,15 +1,15 @@
-# 🛒 Análisis de Precios de la Canasta Familiar — Dashboard Económico
+# Análisis de Precios de la Canasta Familiar — Dashboard Económico
 
 ## Excel | Power Query | Power BI | DAX
 
-📌 Descripción del Proyecto
+Descripción del Proyecto
 
 Este proyecto consiste en el análisis económico de los precios de la canasta familiar en el Eje Cafetero (Colombia).
 Se desarrolló un proceso completo de ETL, modelado de datos, creación de indicadores económicos y construcción de un tablero interactivo en Power BI .
 
 El análisis permite entender la evolución de precios, inflación mensual, volatilidad e IPC , para Cuidad , Categoria , Producto y Mercado.
 
-## 🎯 Objetivos 
+## Objetivos 
 - Identificar tendencias de precios en el tiempo.
 
 - Medir la inflación mensual y por categoría.
@@ -20,7 +20,7 @@ El análisis permite entender la evolución de precios, inflación mensual, vola
 
 - Construir un tablero económico profesional.
 
-📂 Conjunto de datos utilizado
+Conjunto de datos utilizado
 
 Archivo: Historico_de_Precios_Productos_Canasta_Familiar.csv
 
@@ -38,7 +38,7 @@ Columnas principales:
 
 - Precio Mínimo, Máximo y Medio
 
-## 🔧 Proceso ETL (Power Query)
+##  Proceso ETL (Power Query)
 
 Las transformaciones principales fueron:
 
@@ -52,7 +52,7 @@ Las transformaciones principales fueron:
  
 - Construcción de tabla calendario
 
-## 📘 Modelado de Datos
+##  Modelado de Datos
 
  **Modelo en estrella:**
 
@@ -63,18 +63,18 @@ Las transformaciones principales fueron:
 - Relación: Calendario[Fecha] → Precios_Limpios[Fecha Final]
 (1 a muchos, filtro en ambas direcciones)
 
-## 📊 Indicadores (KPIs) construidos en DAX
-🟦 1. Precio Promedio por Mes
+##  Indicadores (KPIs) construidos en DAX
+🟦 Precio Promedio por Mes
 
-🟩 2. Inflación Mensual (Variación % mes a mes)
+🟩 Inflación Mensual (Variación % mes a mes)
 
-🟧 3. Media Móvil 30 días
+🟧 Media Móvil 30 días
 
-🟥 4. Volatilidad
+🟥 Volatilidad
 
-🟨 5. IPC Base 100
+🟨 IPC Base 100
 
-## 📈 Visualizaciones del Dashboard
+## Visualizaciones del Dashboard
 
 🔹 Gráfico 1 — Tendencia de Inflación vs Media Móvil
 
@@ -144,7 +144,7 @@ Las transformaciones principales fueron:
 [Dashboard Power BI (.pbix)](PowerBi)
 
 
-## 👤 Autor
+##  Autor
 
 David Orlando Pacheco Corredor
 
