@@ -141,7 +141,7 @@ Las transformaciones principales fueron:
 
 [Descargar dataset](./data/Historico_Precios_Canasta.csv)
 
-[Dashboard Power BI (.pbix)](./powerbi/dashboard_canasta.pbix)
+[Dashboard Power BI (.pbix)](./powerbi/canasta_familiar_eje.pbix)
 
 
 ## 👤 Autor
