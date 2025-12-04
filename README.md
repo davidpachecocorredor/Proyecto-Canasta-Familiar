@@ -1,6 +1,6 @@
 # Análisis de Precios de la Canasta Familiar — Dashboard Económico
 
-## Excel | Power Query | Power BI | DAX
+## Excel | Power Query | Power Pivot | Power BI | DAX
 
 Descripción del Proyecto
 
