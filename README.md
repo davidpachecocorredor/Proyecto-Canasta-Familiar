@@ -2,7 +2,7 @@
 
 ## Excel | Power Query | Power Pivot | Power BI | DAX
 
-Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto consiste en el análisis económico de los precios de la canasta familiar en el Eje Cafetero (Colombia).
 Se desarrolló un proceso completo de ETL, modelado de datos, creación de indicadores económicos y construcción de un tablero interactivo en Power BI .
