@@ -20,7 +20,7 @@ El análisis permite entender la evolución de precios, inflación mensual, vola
 
 - Construir un tablero económico profesional.
 
-Conjunto de datos utilizado
+## Conjunto de datos utilizado
 
 [Canasta Familiar Eje Cafetero](DATA)
 
