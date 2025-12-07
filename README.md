@@ -136,7 +136,7 @@ Las transformaciones principales fueron:
     - Pescados
     - Productos Procesados
       
-## 📎 Archivos incluidos
+##  Archivos incluidos
 [Dataset Link] (https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Historico-de-Precios-Productos-de-la-Canasta-Famil/gdqq-rry2/about_data)
 
 [Descargar dataset](DATA)
